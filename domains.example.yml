@@ -1,0 +1,3 @@
+default: "http://default.target.domain/index.html"
+
+source.domain: "http://target.domain/"
